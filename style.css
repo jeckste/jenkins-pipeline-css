@@ -1,3 +1,5 @@
-.someclass {
-    display:none;
+table.pipelines > tbody > tr > td {
+    display: block;
+    width: 200px;
+    float: left;
 }
