@@ -1,4 +1,4 @@
-table.pipelines > tbody > tr > td {
+table.pipelines tbody tr td {
     display: block;
     width: 200px;
     float: left;
